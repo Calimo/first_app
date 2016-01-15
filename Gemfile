@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 # Use postgres as the database for Active Record
 gem 'pg'
+# Jquery gem
+gem 'jquery-rails'
 
 gem 'rails_12factor', group: :production
 ruby "2.2.1"
