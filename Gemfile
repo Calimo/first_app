@@ -7,6 +7,8 @@ gem 'rails', '4.2.5'
 gem 'pg'
 # Jquery gem
 gem 'jquery-rails'
+# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
+gem 'turbolinks'
 
 gem 'rails_12factor', group: :production
 ruby "2.2.1"
